@@ -1,0 +1,1 @@
+Kütüphane için ''git clone https://github.com/chrisb2/pi_ina219'' ya da ''sudo pip3 install pi-ina219'' komutlarını çalıştırınız.
